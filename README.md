@@ -24,4 +24,7 @@ ik heb de lijn de peggle en de kannon gemaakt.
 
 3.2
 
+![video GDV 4](https://github.com/user-attachments/assets/ae7ad53c-ab6b-438b-a623-46187787d1e7)
+
+ik heb een combo toegevoegd
 
