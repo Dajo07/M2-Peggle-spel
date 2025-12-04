@@ -15,3 +15,13 @@ les 1.2
 ![video GDV 2](https://github.com/user-attachments/assets/551cfc32-942d-481b-bf22-4d1cf74895f4)
 
 Ik heb nu gemaakt dat je nu de ball kan laten stuiteren en kan dat de game ziet wanneer je iets aan raakt.
+
+les 2.2 en 3.1
+
+![video GDV 3](https://github.com/user-attachments/assets/92d5fbc1-111d-4a24-9dc2-dcefc8cf34c6)
+
+ik heb de lijn de peggle en de kannon gemaakt.
+
+3.2
+
+
