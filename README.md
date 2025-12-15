@@ -34,6 +34,9 @@ ik heb een combo toegevoegd
 
 ik heb UI
 
+4.2
 
+![video GDV 5](https://github.com/user-attachments/assets/495e1255-3466-4955-9650-82f03caa6e36)
 
+ik heb nu de multiplier erin maar die rooie lijn werkt niet meer
 
