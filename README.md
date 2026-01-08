@@ -28,3 +28,15 @@ ik heb de lijn de peggle en de kannon gemaakt.
 
 ik heb een combo toegevoegd
 
+4.1
+
+<img width="1901" height="940" alt="Schermafbeelding 2025-12-12 121817" src="https://github.com/user-attachments/assets/73b0f06e-d8cb-4233-bd1f-bb95d505a467" />
+
+ik heb UI
+
+4.2
+
+![video GDV 5](https://github.com/user-attachments/assets/495e1255-3466-4955-9650-82f03caa6e36)
+
+ik heb nu de multiplier erin maar die rooie lijn werkt niet meer
+
