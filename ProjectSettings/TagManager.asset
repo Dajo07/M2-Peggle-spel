@@ -8,6 +8,8 @@ TagManager:
   - combox2
   - Combo
   - Ball
+  - pizza-1
+  - pizza-2
   layers:
   - Default
   - TransparentFX
