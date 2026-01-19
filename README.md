@@ -40,3 +40,8 @@ ik heb UI
 
 ik heb nu de multiplier erin maar die rooie lijn werkt niet meer
 
+5.1 en 5.2
+
+![Video-GDV-6](https://github.com/user-attachments/assets/d7ed593a-be7a-4183-9669-4c4051770c6b)
+
+ik heb particals en geluid toegevoegd maar dat werkt niet
